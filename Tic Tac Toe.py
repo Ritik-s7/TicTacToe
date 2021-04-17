@@ -6,7 +6,7 @@ root = Tk()
 
 GUI_width = 350
 GUI_Height = 380
-
+#sdsadv
 Screen_width = root.winfo_screenwidth()
 Screen_height = root.winfo_screenheight()
 
